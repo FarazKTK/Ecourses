@@ -1,0 +1,392 @@
+@media screen and (max-width: 767px){
+    .backgroundimage-text{
+        position: absolute;
+        margin-left: 57px;
+        margin-top: 160px;
+    }
+    .backgroundimage{
+        height: 500px !important;
+    }
+    .backgroundimage-text h5{
+        font-size: 20px;
+    }
+    .backgroundimage-text h1{
+        font-size: 38px !important;
+    }
+    .w-90{
+        width: 100% !important;
+    }
+    .cat-overlay{
+        width: 92% !important;
+    }
+}
+@media (width: 375px){
+    
+    .backgroundimage-text{
+        position: absolute;
+        margin-left: 57px;
+    }
+    .backgroundimage-text h1{
+        font-size: 30px !important;
+    }
+    .section-1-text h1{
+        font-size: 28px !important;
+    }
+    .section-1-text h5{
+        font-size: 20px !important;
+    }
+    .text-align-center h1{
+        font-size: 25px !important;
+    }
+    .cat-overlay{
+        width: 92% !important;
+    }
+    .text-align-center-1 h1{
+        font-size: 28px !important;
+    }
+    .slider-image{
+        width: 28% !important;
+    }
+    .image_zoom{
+        margin-bottom: 10px !important;
+    }
+}
+@media (width: 414px){
+    .backgroundimage-text h1{
+        font-size: 34px !important;
+    }
+    .section-1-text h1{
+        font-size: 32px !important;
+    }
+    .cat-overlay{
+        width: 93% !important;
+    }
+    .text-align-center h1{
+        font-size: 35px !important;
+    }
+    .text-align-center-1 h1{
+        font-size: 30px !important;
+    }
+    .slider-image{
+        width: 25% !important;
+    }
+    .image_zoom img{
+        margin-bottom: 10px !important;
+    }
+}
+@media (width: 390px){
+
+    .backgroundimage-text{
+        position: absolute;
+        margin-left: 38px !important;
+    }
+    .backgroundimage-text h1{
+        font-size: 34px !important;
+    }
+    .section-1-text h1{
+        font-size: 30px !important;
+    }
+    .cat-overlay{
+        width: 92% !important;
+    }
+    .text-align-center h1{
+        font-size: 35px !important;
+    }
+    .text-align-center-1 h1{
+        font-size: 30px !important;
+    }
+    .slider-image{
+        width: 25% !important;
+    }
+    .image_zoom img{
+        margin-bottom: 10px !important;
+    }
+}
+@media (width: 430px){
+    .backgroundimage-text{
+        position: absolute;
+        margin-left: 40px;
+    }
+    .cat-overlay{
+        width: 93% !important;
+    }
+    .text-align-center-1 h1{
+        font-size: 34px !important;
+    }
+    .slider-image{
+        width: 25% !important;
+    }
+    .image_zoom img{
+        margin-bottom: 10px !important;
+    }
+}
+@media (width: 412px){
+    .backgroundimage-text h1{
+        font-size: 34px !important;
+    }
+    .section-1-text h1{
+        font-size: 30px !important;
+    }
+    .cat-overlay{
+        width: 93% !important;
+    }
+    .text-align-center h1{
+        font-size: 28px !important;
+    }
+    .text-align-center-1 h1{
+        font-size: 30px !important;
+    }
+    .slider-image{
+        width: 25% !important;
+    }
+    .image_zoom img{
+        margin-bottom: 10px !important;
+    }
+}
+@media (width: 360px){
+    .backgroundimage-text h1{
+        font-size: 28px !important;
+    }
+    .section-1-text h1{
+        font-size: 28px !important;
+    }
+    .cat-overlay{
+        width: 92% !important;
+    }
+    .text-align-center h1{
+        font-size: 30px !important;
+    }
+    .text-align-center-1 h1{
+        font-size: 30px !important;
+    }
+    .slider-image{
+        width: 25% !important;
+    }
+    .image_zoom img{
+        margin-bottom: 10px !important;
+    }
+}
+@media (width: 768px){
+    .backgroundimage-text{
+        position: absolute;
+        margin-left: 100px;
+    }
+    .backgroundimage-text h1{
+        font-size: 58px !important;
+    }
+    .w-100{
+        width: 100% !important;
+    }
+    .section-1-text{
+        margin-top: 3px !important;
+        margin-left: 15px !important;
+    }
+    .section-1-text h5{
+        font-size: 15px !important;
+    }
+    .section-1-text h1{
+        font-size: 25px !important;
+    }
+    .section-1-text .btn{
+        margin-top: 3px !important;
+    }
+    .cat-overlay{
+        width: 92% !important;
+    }
+    .h5{
+        font-size: 12px !important;
+    }
+    .text-align-center-1 h1{
+        font-size: 35px !important;
+    }
+    .slider-image{
+        width: 15% !important;
+    }
+    .image_zoom h5{
+        font-size: 15px !important;
+    }
+}
+@media (width: 820px){
+    .backgroundimage-text{
+        position: absolute;
+        margin-left: 120px;
+    }
+    .backgroundimage-text h1{
+        font-size: 55px !important;
+    }
+    .cat-overlay{
+        width: 84% !important;
+    }
+    .cat-overlay h4{
+        font-size: 20px !important;
+    }
+    .h5{
+        font-size: 12px !important;
+    }
+    .text-align-center-1 h1{
+        font-size: 35px !important;
+    }
+    .slider-image{
+        width: 20% !important;
+    }
+    .image_zoom h5{
+        font-size: 2px !important;
+    }
+}
+@media (width: 912px){
+    .backgroundimage-text h1{
+        font-size: 60px !important;
+    }
+    .backgroundimage-text{
+        position: absolute;
+        margin-left: 140px !important;
+    }
+    .cat-overlay{
+        width: 84% !important;
+    }
+    .cat-overlay h4{
+        font-size: 20px !important;
+    }
+    .h5{
+        font-size: 13px !important;
+    }
+    .slider-image{
+        width: 15% !important;
+    }
+}
+@media (width: 853px){
+
+    .backgroundimage-text{
+        position: absolute;
+        margin-left: 120px !important;
+    }
+    .backgroundimage-text h1{
+        font-size: 60px !important;
+    }
+    .cat-overlay{
+        width: 83% !important;
+    }
+    .cat-overlay h4{
+        font-size: 20px !important;
+    }
+    .h5{
+        font-size: 12px !important;
+    }
+    .slider-image{
+        width: 18% !important;
+    }
+    .image_zoom h5{
+        font-size: 15px !important;
+    }
+}
+@media (width: 320px){
+    .section-1-text h1{
+        font-size: 25px !important;
+    }
+    .navbar{
+        padding: 12px !important;
+    }
+    h2{
+        font-size: 25px !important;
+    }
+    .text-align-center h1{
+        font-size: 29px !important;
+    }
+    .cat-overlay{
+        width: 91% !important;
+    }
+    .text-align-center-1 h1{
+        font-size: 26px !important;
+    }
+    .slider-image{
+        width: 28% !important;
+    }
+    .image_zoom img{
+        margin-bottom: 10px !important;
+    }
+    .backgroundimage-text h1{
+        font-size: 25px !important;
+    }
+    .backgroundimage-text h5{
+        font-size: 18px !important;
+    }
+}
+@media (width: 344px){
+    h2{
+        font-size: 25px !important;
+    }
+    .section-1-text h1{
+        font-size: 25px !important;
+    }
+    .cat-overlay{
+        width: 92% !important;
+    }
+    .backgroundimage-text h1{
+        font-size: 28px !important;
+    }
+    .backgroundimage-text h5{
+        font-size: 15px !important;
+    }
+    .text-align-center h1{
+        font-size: 28px !important;
+    }
+    .text-align-center-1 h1{
+        font-size: 27px !important;
+    }
+    .slider-image{
+        width: 20% !important;
+    }
+    .image_zoom{
+        margin-bottom: 10px !important;
+    }
+}
+@media (width: 330px){
+    .navbar-brand h2{
+        font-size: 25px !important;
+    }
+    .backgroundimage-text h1{
+        font-size: 25px !important;
+    }
+    .backgroundimage-text h5{
+        font-size: 15px !important;
+    }
+    .section-1-text h1{
+        font-size: 25px !important;
+    }
+    .section-1-text h5{
+        font-size: 17px !important;
+    }
+    .text-align-center h1{
+        font-size: 28px !important;
+    }
+    .cat-overlay{
+        width: 91% !important;
+    }
+}
+@media (width: 768px){
+    .cat-overlay{
+        width: 83% !important;
+    }
+    .cat-overlay h4{
+        font-size: 20px;
+    }
+}
+@media (width: 1024px){
+    .cat-overlay{
+        width: 88% !important;
+    }
+}
+@media (width: 540px){
+    .cat-overlay{
+        width: 94% !important;
+    }
+    .cat-overlay h4{
+        font-size: 30px !important;
+    }
+    .slider-image{
+        width: 15% !important;
+    }
+    .image_zoom{
+        margin-bottom: 10px !important;
+    }
+}
